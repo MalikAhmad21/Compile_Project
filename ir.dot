@@ -1,0 +1,10 @@
+digraph IR {
+  node [shape=box];
+  B0 [label="a = 5"];
+  B1 [label="b = 10"];
+  B2 [label="if a"];
+  B3 [label="then"];
+  B4 [label="c = a * b"];
+  B5 [label="else"];
+  B6 [label="c = b - a"];
+}

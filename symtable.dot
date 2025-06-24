@@ -1,0 +1,5 @@
+digraph SymbolTable {
+  node [shape=record];
+  sym0 [label="{<f0> Name: b | <f1> Value: 0}"];
+  sym1 [label="{<f0> Name: a | <f1> Value: 0}"];
+}
